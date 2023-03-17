@@ -4579,7 +4579,7 @@
 					$SRCROOT/ReactiveObjC,
 					$SRCROOT/ReactiveObjC/extobjc,
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = (
@@ -4648,7 +4648,7 @@
 					$SRCROOT/ReactiveObjC,
 					$SRCROOT/ReactiveObjC/extobjc,
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				OTHER_CFLAGS = (
 					"$(inherited)",
@@ -4717,7 +4717,7 @@
 					$SRCROOT/ReactiveObjC,
 					$SRCROOT/ReactiveObjC/extobjc,
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				OTHER_CFLAGS = (
 					"$(inherited)",
@@ -4787,7 +4787,7 @@
 					$SRCROOT/ReactiveObjC,
 					$SRCROOT/ReactiveObjC/extobjc,
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = (
